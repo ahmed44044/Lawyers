@@ -4,7 +4,7 @@
 }
 body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-
+    overflow-x: hidden;
 }
 
 .text-color{
@@ -109,7 +109,7 @@ body{
 }
 .item-img{
     position: absolute;
-    bottom: 35%;
+    bottom: 35px;
 }
 
 @media (max-width: 992px) {

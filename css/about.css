@@ -115,10 +115,10 @@ body{
 }
 
 .about-range .border-range{
-    width: 147px;
-    height: 147px;
-    border:  5px solid #B59F65;
-    border-left: 5px #192D2F  solid;
+    width: 140px;
+    height: 140px;
+    border:  4px solid #B59F65;
+    border-left: 4px #192D2F  solid;
 
     border-radius: 50%;
     
