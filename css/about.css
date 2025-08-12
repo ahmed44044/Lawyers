@@ -74,6 +74,25 @@ body{
     letter-spacing: 3%;
 }
 
+@media (max-width: 767.98px){
+    .item-about-us-img{
+    position: relative;
+}
+.item-about-us-img .item-desc{
+    background-color: #D9D9D9;
+    position: absolute;
+    left: 0;
+    bottom: -20px;
+    
+}
+
+.item-about-us-img .item-desc h5{
+    font-size:30px ;
+    line-height: 35px;
+    letter-spacing: 3%;
+}
+}
+
 .about-us button{
     color: #192D2F;
 }
